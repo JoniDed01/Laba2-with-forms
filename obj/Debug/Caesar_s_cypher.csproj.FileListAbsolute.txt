@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Caesar_s_cypher\obj\Debug\Caesar_s_cypher.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Caesar_s_cypher\obj\Debug\Caesar_s_cypher.Properties.Resources.resources
+C:\Users\User\source\repos\Caesar_s_cypher\obj\Debug\Caesar_s_cypher.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Caesar_s_cypher\bin\Debug\Caesar_s_cypher.exe.config
+C:\Users\User\source\repos\Caesar_s_cypher\bin\Debug\Caesar_s_cypher.exe
+C:\Users\User\source\repos\Caesar_s_cypher\bin\Debug\Caesar_s_cypher.pdb
+C:\Users\User\source\repos\Caesar_s_cypher\obj\Debug\Caesar_s_cypher.exe
+C:\Users\User\source\repos\Caesar_s_cypher\obj\Debug\Caesar_s_cypher.pdb
